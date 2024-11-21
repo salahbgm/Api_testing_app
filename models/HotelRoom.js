@@ -1,6 +1,5 @@
 const mongoose = require('mongoose');
 
-
 // Connect to MongoDB
 const dbURI = "mongodb+srv://salahboughanmi:KpKWcE704T4twZfr@api-test-db.danpz.mongodb.net/";
 
